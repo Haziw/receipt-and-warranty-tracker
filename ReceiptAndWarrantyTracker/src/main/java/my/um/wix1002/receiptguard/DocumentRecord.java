@@ -1,4 +1,4 @@
-package my.um.wix1002.receipguard;
+package my.um.wix1002.receiptguard;
 
 public class DocumentRecord {
 
