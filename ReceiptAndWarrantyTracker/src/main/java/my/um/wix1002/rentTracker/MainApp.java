@@ -1,4 +1,4 @@
-package my.um.wix1002.receiptguard;
+package my.um.wix1002.rentTracker;
 
 public class MainApp {
     
